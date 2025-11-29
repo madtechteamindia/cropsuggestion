@@ -39,8 +39,8 @@ def suggest_fertilizer(n, p, k):
     return suggestions if suggestions else ["NPK levels are optimal."]
 
 def main():
-    st.set_page_config(page_title="AgriBot", page_icon="🌾")
-    st.title(" AgriBot: Smart Crop & Fertilizer Advisor")
+    st.set_page_config(page_title="FarmMate", page_icon="🌾")
+    st.title(" FarmMate: Smart Crop & Fertilizer Suggestor")
 
     st.header("Enter Soil Parameters")
     n = st.number_input("Nitrogen (N)", 0, 200, step=1)
