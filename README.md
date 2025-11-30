@@ -1,6 +1,6 @@
-# AgriBot – Smart Crop & Fertilizer Recommender
+# FarmMate – Smart Crop & Fertilizer Recommender
 
-AgriBot is a machine learning-powered agriculture assistant that helps users determine the most suitable crop to grow based on soil and environmental conditions. It also recommends fertilizer corrections and provides detailed, human-like crop care tips including soil suggestions and cultivation advice.
+FarmMate is a machine learning-powered agriculture assistant that helps users determine the most suitable crop to grow based on soil and environmental conditions. It also recommends fertilizer corrections and provides detailed, human-like crop care tips including soil suggestions and cultivation advice.
 
 ---
 
